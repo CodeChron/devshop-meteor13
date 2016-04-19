@@ -3,4 +3,5 @@
 - from inside the repo ```git fetch --all``` to pull down all the branches
 - ```git branch -a``` to list all branches
 - ```git checkout origin/[branchname]``` eg ```git checkout origin/magic```
+-
 
