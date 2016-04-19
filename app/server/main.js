@@ -1,5 +1,5 @@
 import { Meteor } from 'meteor/meteor'
-import { Notes } from '../both/collections/notes'
+import { Notes } from '../imports/both/collections/notes'
 
 Meteor.startup(() => {
 
